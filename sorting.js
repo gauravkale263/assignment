@@ -13,6 +13,7 @@ function sortingArray(arr)
         }
     }
 }
+
 let arr=[5,3,8,6,0,9]
 console.log("Array before sorting:",arr);
 sortingArray(arr)
